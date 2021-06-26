@@ -11,6 +11,7 @@
 using namespace std;
 
 HANDLE console= GetStdHandle(STD_OUTPUT_HANDLE);
+using namespace std; 
 COORD CursorPosition;
 
 int enemyY[3];
